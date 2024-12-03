@@ -1,4 +1,4 @@
-# Starter folder
+# Exploring Lifestyle Influences on Depression: Evidence from a Bayesian Regression Analysis
 
 ## Overview
 
